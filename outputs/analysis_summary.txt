@@ -1,0 +1,40 @@
+=== QUANTITATIVE FINANCE SUITE - ANALYSIS SUMMARY ===
+Generated: 2025-07-31 18:37:52 
+
+DATA OVERVIEW:
+Period: 2020-01-01 to 2025-07-31 
+Assets: 10 
+Observations: 1381 
+
+PORTFOLIO PERFORMANCE:
+Sharpe Ratio: 0.274 
+Alpha (%): -0.896 
+Beta:
+ 0.969 
+
+FAMA-FRENCH ANALYSIS:
+Alpha (%):
+ 0.05215093 
+
+TOP PERFORMERS:
+Best Sharpe Ratio:
+ BHARTIARTL.NS 
+Most Aggressive (High Beta):
+ BAJFINANCE.NS 
+Most Defensive (Low Beta):
+ HINDUNILVR.NS 
+
+FILES GENERATED:
+- outputs/risk_metrics.csv
+- outputs/capm_results.csv
+- outputs/asset_betas.csv
+- outputs/ff_results.csv
+- outputs/max_sharpe_portfolio.csv
+- outputs/min_vol_portfolio.csv
+- outputs/monte_carlo_final_prices.csv
+- outputs/correlation_matrix.csv
+- outputs/risk_return_profile.png
+- outputs/sharpe_ratios.png
+- outputs/correlation_matrix.png
+- outputs/capm_regression.png
+- outputs/Fama_French_Factor_Exposure.png
